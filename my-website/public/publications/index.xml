@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Glen Rapaj</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Glen Rapaj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motifs Discovery in Time Series, Application</title>
+      <link>http://localhost:1313/publications/alldaydevops/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/alldaydevops/</guid>
+      <description>&lt;p&gt;This presentation covers a range of methods for analyzing and discovering motifs in time series, from traditional approaches to modern, advanced techniques. It compares various similarity measurement formulas like Euclidean distance, highlighting their strengths and limitations. The presentation discusses how some methods may fail in certain cases and contrasts their effectiveness in generating high-quality results. It also addresses the inefficiency of traditional approaches in the era of big data and proposes alternative solutions for better analysis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
